@@ -1,4 +1,4 @@
-GitHub: (저장소 주소) · Render: (https://….onrender.com)
+GitHub: https://github.com/haedallab/ledger-api · Render: https://ledger-api-rsox.onrender.com
 
 # 가계부 API (FastAPI + Supabase PostgreSQL)
 
